@@ -1,8 +1,0 @@
-It is third text file...
-
-Select any cell within the range.
-Select Data > Filter.
-Select the column header arrow .
-Select Text Filters or Number Filters, and then select a comparison, like Between.
-Enter the filter criteria and select OK.
-
